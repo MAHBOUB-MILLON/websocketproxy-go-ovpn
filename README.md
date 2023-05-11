@@ -8,6 +8,8 @@ Reserve proxy websocket in GO
 
 # INSTALLATION
 
+• First install openvpn tcp 1194 then run proxy 
+
 ```
 
 apt install golang-go
@@ -16,7 +18,7 @@ apt install golang-go
 
 ```
 
-wget https://raw.githubusercontent.com/MAHBOUB-MILLON/websocketproxy-GO/main/proxy.go
+wget https://raw.githubusercontent.com/MAHBOUB-MILLON/websocketproxy-go-ovpn/main/proxy.go
 
 ```
 
