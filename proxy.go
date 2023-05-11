@@ -2,7 +2,8 @@
 //  Name         : Proxy Websocket 
 //  Desc         : Proxy Websocket using Golang
 //  Author       : MAHBOUB-MILLON [amirnet]
-//  Date         : 08-05-2022 ----------------------------------------------------------------------------
+//  Date         : 08-05-2022 
+// ----------------------------------------------------------------------------
 
 package main
 
@@ -16,7 +17,7 @@ import (
 func main() {
     // Configuration
     host := "127.0.0.1"
-    port := "22"
+    port := "1194"
     listen := "80"
 
     // Listen new bridged port
