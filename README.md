@@ -40,7 +40,7 @@ go run proxy.go
 
 you can use screen command to run proxy
 
-# PAYLOAD HTTP INJECTOR 
+# PAYLOAD HTTP CUSTOM 
 
 ```
 
